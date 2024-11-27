@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [GoChat](https://github.com/sharibkabani/go-chat)
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go**, **Springboot**, **Supabase**
 
 - 📫 How to reach me **ksharib05@gmail.com**
 

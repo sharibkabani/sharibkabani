@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharibkabani&label=Profile%20views&color=0e75b6&style=flat" alt="sharibkabani" /> </p>
 
-- 🔭 I’m currently working on [GoChat](https://github.com/sharibkabani/GoChat)
+- 🔭 I’m currently working on [PullPanda](https://github.com/sharibkabani/PullPanda)
 
-- 🌱 I’m currently learning **Go**, **Springboot**, **Supabase**
+- 🌱 I’m currently learning **Go**, and **Springboot**
 
 - 📫 How to reach me **ksharib05@gmail.com**
 

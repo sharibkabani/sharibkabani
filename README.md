@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sharib</h1>
-<h3 align="center">A future software engineer!</h3>
+<h3 align="center">A future software engineer! Check out some of my projects!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharibkabani&label=Profile%20views&color=0e75b6&style=flat" alt="sharibkabani" /> </p>
 
